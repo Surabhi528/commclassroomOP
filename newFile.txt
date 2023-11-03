@@ -1,1 +1,2 @@
 newLine is addded
+newLine 2 is added.
